@@ -6,5 +6,5 @@
 ---------------------
   **Author Details** 
 ---------------------
-**Name : Amrit Koirala** 
-**Email : grepamrit@gmail.com**
+**Name:** Amrit Koirala 
+**Email:** grepamrit@gmail.com
