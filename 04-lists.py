@@ -48,5 +48,15 @@ print(id(copy1[2]))
 print(id(list[2]))
 
 
+# Combile List 
 
+print("\nCombinging Lists: ")
+my_favourite_things = ["Working out", 10 , ["12 Angry man", "Trance"]]
+least_favourite_things = ["oninios", "JAVA"]
+
+print(my_favourite_things + least_favourite_things) # combining two lists 
+
+least_favourite_things = least_favourite_things + ["Video Editing"]
+least_favourite_things.append("Washing Dish")  # A convinenet way to appedning data in list 
+print(least_favourite_things)
 
